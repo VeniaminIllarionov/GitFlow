@@ -1,3 +1,7 @@
 def upper_word():
-    """Перевод в вверхний регистр"""
     return word.upper()
+
+
+def title_word():
+    """Перевод в Заглавный регистр"""
+    return word.title()
